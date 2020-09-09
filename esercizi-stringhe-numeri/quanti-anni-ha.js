@@ -11,3 +11,9 @@
 
   http://www.imparareaprogrammare.it
 */
+var oggi = 2018
+var nato = 1991
+var età =oggi-nato
+var cento = 100
+console.log(età)
+console.log(cento - età)
